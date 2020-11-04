@@ -1,3 +1,3 @@
 # CodeForces Challenges
 
-## Coming Soon!
+# Coming Soon!
